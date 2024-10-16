@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df27fc80-db01-4b60-a38b-da61af35530f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Program002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/program001.java" afterDir="false" />
+    <list default="true" id="df27fc80-db01-4b60-a38b-da61af35530f" name="Changes" comment="javaProgram">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "krokith"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/krokith/JavaPrograms.git",
+    "accountId": "3e1198b2-dbf6-45e3-aa4f-c5ad4a59a399"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -108,6 +112,15 @@
       <option name="presentableId" value="Default" />
       <updated>1729046483686</updated>
     </task>
+    <task id="LOCAL-00001" summary="javaProgram">
+      <option name="closed" value="true" />
+      <created>1729056870705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729056870705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +133,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaProgram" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaProgram" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaPrograms$Program002.ic" NAME="Program002 Coverage Results" MODIFIED="1729053804420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
