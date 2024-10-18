@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df27fc80-db01-4b60-a38b-da61af35530f" name="Changes" comment="javaProgram">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Program006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Program007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Program8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/program005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Program09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10152024/Program8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10152024/Program8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +50,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.Lab_015.executor": "Run",
     "Application.Program002.executor": "Coverage",
     "Application.Program006.executor": "Run",
+    "Application.Program09 (1).executor": "Run",
+    "Application.Program09.executor": "Run",
     "Application.Program8 (1).executor": "Run",
     "Application.Program8.executor": "Run",
     "Application.printf.executor": "Run",
@@ -68,9 +68,23 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program8">
-    <configuration name="Program006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_10152024.Program006" />
+  <component name="RunManager" selected="Application.Program09 (1)">
+    <configuration name="Lab_015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_015" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program09 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program09" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_10152024.Program09" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -102,39 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_10152024.printf" />
-      <module name="JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_10152024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="program005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_10152024.program005" />
-      <module name="JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_10152024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program09 (1)" />
+        <item itemvalue="Application.Lab_015" />
+        <item itemvalue="Application.Program09" />
         <item itemvalue="Application.Program8" />
         <item itemvalue="Application.Program8 (1)" />
-        <item itemvalue="Application.Program006" />
-        <item itemvalue="Application.program005" />
-        <item itemvalue="Application.printf" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729066355047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="javaProgram">
+      <option name="closed" value="true" />
+      <created>1729221840324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729221840324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

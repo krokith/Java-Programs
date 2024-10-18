@@ -21,7 +21,7 @@ public class Program8 {
             System.out.print('D');
         }  if(grade<=50)
             System.out.print('F');
-
+      sc.close();
     }
 }
 
