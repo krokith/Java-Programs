@@ -1,0 +1,39 @@
+//first non repeative characters
+
+import java.util.*;
+public class NonRepeative{
+    public static char NonDupChar(String name){
+    HashMap<Character,Integer> map = new HashMap<Character,Integer>();
+    
+    String str = name.toLowerCase();
+    
+    for(int i =0;i<str.length();i++)
+    {
+        char c = str.charAt(i);
+        if(map.containsKey(c))
+        {
+            map.put(c,map.get(c)+1);
+           } else{
+               map.put(c,1);
+            }
+        }
+        
+        for(int i=0;i<str.length();i++)
+        {
+            char c  = str.charAt(i);
+            if(map.get(c)==1)
+            {
+                return c;
+            }
+        }
+         return '\0';
+    }
+        public static void main(String args[]){
+            String input = "qqqrrrrttttyyyyuiiiioooo";
+            char result = NonDupChar(input);
+            
+            System.out.print(result);
+        }
+    }
+    
+    
